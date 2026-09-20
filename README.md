@@ -64,3 +64,7 @@ The skill will not inflate technical complexity to deter scrutiny, and will not 
 ## Contributing
 
 The parts most likely to need work from real use are the intermediary section, which is written from how these bodies are structurally accountable rather than from experience of dealing with them, and the compliance interrogation, which will grow as new disclosure regimes appear. Issues and PRs welcome.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
