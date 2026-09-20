@@ -37,6 +37,16 @@ From which the governing principle: **never ask a non-specialist to judge the sc
 | Failure modes | Deemed withdrawal, no appeal, thin feedback, resubmission as a designed process |
 | Operating modes | Draft / rewrite / check |
 
+## The phrasebook
+
+`references/requirement-wordings.md` is a companion reference, loaded on demand. Where `SKILL.md` gives the questions to put to a guideline, the phrasebook catalogues what the answers look like on the page — the recurring clause types, the wordings each one takes, and what each variant actually obligates.
+
+It exists because most of the work of reading a funding guideline is pattern-matching against a genre you have seen before. Knowing that "incorporated under" and "registered under" are different tests, that an expenditure bar and a concurrent-submission bar are different bars, or that a benefit criterion, a geographic work requirement, an asset lock-in and a public-benefit test are four separate obligations, is the difference between a clean application and one that fails on something nobody scored.
+
+Eighteen sections: the shared criterion vocabulary, scoring instruments and hurdle clauses, eligibility, benefit-to-the-jurisdiction, matching and in-kind, IP, deliverables language, double-funding, duration and disallowables, related parties and procurement, declarations, audit, format and language, process and finality, lay-accessibility requirements, what published oversight reviews find, how to read the absences, and currency.
+
+Same discipline as the skill: no scheme names, no bodies, no jurisdiction, no dates, no live figures. Quoted phrasings are anonymised examples of *forms of words*, with jurisdiction-specific nouns replaced by bracketed generics. Where something is inferred rather than published — most of what can be said about writing for lay reviewers — it carries an explicit status note. Nothing in it should ever be quoted into an application; the current guideline is the only authority.
+
 ## Install
 
 **Personal (all your projects):**
@@ -53,9 +63,9 @@ git clone https://github.com/aknopla/public-funding-applications-writing-style \
   .claude/skills/public-funding-applications
 ```
 
-Claude picks it up automatically from the `description` field. You can also invoke it directly with `/public-funding-applications`.
+Claude picks it up automatically from the `description` field. You can also invoke it directly with `/public-funding-applications`. Either clone brings `references/` with it, which is what the skill reads for the phrasebook.
 
-In the Claude apps, upload `SKILL.md` as a skill instead.
+In the Claude apps, upload the repo as a zip rather than `SKILL.md` alone, so `references/` comes too. `SKILL.md` on its own still works — it is self-contained — but the phrasebook pointers will go nowhere.
 
 ## Scope
 

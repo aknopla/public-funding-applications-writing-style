@@ -23,7 +23,7 @@ That single fact produces the behaviour you are writing into, and it is the same
 
 Never write from memory of a scheme, and never assume this year's rules match last year's. Schemes are revised, restructured and closed without notice. Confirm the scheme is open and get the current guideline before drafting a word.
 
-**If criteria and weightings are published**, they are the single most useful instruction in the document. Extract them verbatim, with their exact wording, and allocate narrative length roughly in proportion to weight.
+**If criteria and weightings are published**, they are the single most useful instruction in the document. Extract them verbatim, with their exact wording, and allocate narrative length roughly in proportion to weight. Unfamiliar criterion names are usually familiar criteria under another label — `references/requirement-wordings.md` §1 maps the recurring vocabulary, and §2 covers the three scoring instruments and the hurdle clauses that sit apart from the weighting.
 
 **If they are not published — the common case for intermediaries — reconstruct them, in this order of reliability:**
 
@@ -137,6 +137,8 @@ Everything downstream is still government-grade: funding agreements, milestone r
 ## The compliance interrogation
 
 Ask these of any guideline, whoever issues it. The answers vary; the questions do not.
+
+**`references/requirement-wordings.md`** is a phrasebook for the answers: the recurring clause types, the wordings each takes, and what each variant obligates. Read it when a clause is unfamiliar, or when two requirements look alike and you need to know which one you are under — incorporated versus registered, an expenditure bar versus a concurrent-submission bar, a scored benefit criterion versus a geographic work requirement. It names no scheme, body or jurisdiction and carries no live figures; it is there to help you read a guideline, never to substitute for one.
 
 - **Eligibility of the applicant.** What legal form exactly — incorporated locally, merely registered, non-profit, an institution on a named list? Are listed companies, subsidiaries, or publicly subvented bodies excluded? Is there a local-operations or local-presence test, and what evidence does it name? *(Failure to evidence genuine local operations is one of the few rejection reasons bodies in this genre actually publish.)*
 - **Benefit to the jurisdiction.** Is it a scored criterion, a geographic work requirement (a minimum share of work performed locally), an asset lock-in, a local-personnel requirement, or a public-benefit test that excludes benefit to a single private firm? These are different obligations; do not conflate them.
