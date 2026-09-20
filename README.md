@@ -47,6 +47,8 @@ Eighteen sections: the shared criterion vocabulary, scoring instruments and hurd
 
 Same discipline as the skill: no scheme names, no bodies, no jurisdiction, no dates, no live figures. Quoted phrasings are anonymised examples of *forms of words*, with jurisdiction-specific nouns replaced by bracketed generics. Where something is inferred rather than published — most of what can be said about writing for lay reviewers — it carries an explicit status note. Nothing in it should ever be quoted into an application; the current guideline is the only authority.
 
+It was distilled from sourced research on around fifteen schemes in a single jurisdiction: published criteria and weightings, vetting-committee compositions, the recurring compliance spine, format conventions, and public audit findings on how these processes fail. That source research is deliberately not published here. Within a year of compiling it, several of the schemes it covered had closed to new applications, been renamed, or been moved under a different body — which is the argument for shipping the patterns and not the particulars.
+
 ## Install
 
 **Personal (all your projects):**

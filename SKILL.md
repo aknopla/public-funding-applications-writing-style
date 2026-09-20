@@ -91,7 +91,7 @@ For every row in the register, write one sentence a reviewer can highlight and m
 
 Pattern: **[the guideline's own term] — [fact with a number, date or name] — [evidence locator]**
 
-> The Applicant has maintained substantive business operation in Hong Kong since its incorporation on 4 March 2019, employing 14 full-time staff based locally, holding an office lease at [address] to 31 December 2028, and having filed tax returns for every year of assessment since 2019/20. (Annex C, pp. 7–19.)
+> The Applicant has maintained substantive business operation in [the jurisdiction] since its incorporation on 4 March 2019, employing 14 full-time staff based locally, holding an office lease at [address] to 31 December 2028, and having filed tax returns for every year of assessment since 2019/20. (Annex C, pp. 7–19.)
 
 Three rules:
 
